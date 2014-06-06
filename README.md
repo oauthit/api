@@ -15,4 +15,12 @@ Organizations
 
 * Membership
 * Role
+
+Messaging
+-
+
+* Message
+* Recepient
 * Invitation
+* Notification
+* Confirmation
